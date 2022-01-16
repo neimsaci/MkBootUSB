@@ -1,2 +1,2 @@
 # MkBootUSB
-PowerShell script that creates bootable USB key with GUI
+Gui app on top of PowerShell script that creates bootable USB Drive
